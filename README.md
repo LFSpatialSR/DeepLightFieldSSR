@@ -38,5 +38,6 @@ model_scale needs to be 2, 3 or 4
 
 ### Authors
 
+Henry W. F Yeung*, Junhui Hou*, XiaoMing Chen, Jie Chen, Zhibo Chen and Yuk Ying Chung
 
-s
+*Contributed equally to this paper.
