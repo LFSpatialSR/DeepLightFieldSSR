@@ -23,9 +23,9 @@ Please first download the dataset from http://lightfields.stanford.edu/
 
     >> train_Spatial_SR(scale, depth, gpu)
 
-scale needs to be 2, 3 or 4
-depth is the desired model depth (recommended 10)
-1 if using GPU, otherwise 0
+scale: needs to be 2, 3 or 4. <br />
+depth: the desired model depth (recommended 10). <br />
+gpu: 1 if using GPU, otherwise 0. <br />
 
 ### Testing Pretrained Models
 
@@ -33,8 +33,8 @@ Please first download all images from the miscellenous class from http://lightfi
 
     >> test_pretrained(model_scale, gpu)
 
-model_scale needs to be 2, 3 or 4
-1 if using GPU, otherwise 0
+model_scale: needs to be 2, 3 or 4. <br />
+gpu: 1 if using GPU, otherwise 0. <br />
 
 ### Authors
 
