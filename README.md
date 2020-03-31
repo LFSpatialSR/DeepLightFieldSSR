@@ -2,6 +2,9 @@
 
 # Light Field Spatial Super-Resolution Using Deep Spatial-Angular Interleaved CNN
 
+-----------------------------------------------------------------------------------
+## Note: Pytorch implementation is available at https://github.com/jingjin25/LFSSR-SAS-PyTorch 
+
 ### Introduction
 
 ### Citation
